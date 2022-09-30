@@ -134,10 +134,10 @@ and the inputs you provide will be what the HTTP task expects.
         "forkTaskName": "HTTP",
         "forkTaskInputs": [
           {
-            "url" : "https://orkes-api-tester.orkesconductor.com/get"
+            "uri" : "https://orkes-api-tester.orkesconductor.com/get"
           },
           {
-            "url" : "https://orkes-api-tester.orkesconductor.com/get",
+            "uri" : "https://orkes-api-tester.orkesconductor.com/get",
             "method" : "GET"
           }
         ]
