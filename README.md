@@ -30,3 +30,7 @@ service.
 ### Deployment
 
 Raise a PR to our main branch. Once we merge, our CI/CD will deploy the site for you. Thanks for contributing!
+
+###Trial
+
+Create a trial PR
